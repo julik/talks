@@ -1,0 +1,11 @@
+This repo contains the talks I've given on various programming topics.
+
+* Euruko 2011 - Ruby helps us make movies.
+  On the use of Ruby scripts and libraries in film and video post-production.
+* Amsterdam.rb 2016 - Streaming large files with Ruby
+  How we built a high-performance download streaming proxy at WeTransfer
+* Amsterdam.rb 2017 - Heresy
+  Why you might want to build your next service using in-memory, volatile
+  SQLite databases and small Ruby modules
+* Amsterdam.rb 2018 - It's a TIFF
+  Creating and deploying a large scale file format detector 
