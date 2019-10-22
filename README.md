@@ -8,4 +8,6 @@ This repo contains the talks I've given on various programming topics.
   Why you might want to build your next service using in-memory, volatile
   SQLite databases and small Ruby modules
 * Amsterdam.rb 2018 - It's a TIFF
-  Creating and deploying a large scale file format detector 
+  Creating and deploying a large scale file format detector
+* Amsterdam.rb 2019 - Sharp tools
+  How changing other people's code is absolutely fine
