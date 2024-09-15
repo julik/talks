@@ -12,3 +12,4 @@ This repo contains the talks I've given on various programming topics.
 * Amsterdam.rb 2019 - Sharp tools
   How changing other people's code is absolutely fine
 * RubyMeditation Kiev 2019 - Как изобретать велосипед, зачем это делать и как этого не стесняться (ru)
+* Euruko 2024 - On the virtues of slot scheduling
