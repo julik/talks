@@ -217,23 +217,6 @@ graph TD
 
 ---
 
-is actually
-
-```mermaid
-graph TD
-    
-    A[SendEmailActivity#execute] --> B[sleep 30 days]
-    A1[SendEmailActivity#execute] --> B2[sleep 30 days]
-    B --> C[Done]
-    B2 --> C[Done]
-    
-    style A fill:#e1f5fe
-    style B fill:#fff3e0
-    style C fill:#e8f5e8
-```
-
----
-
 ...and `12.times` is part of it!
 
 ```mermaid
